@@ -255,6 +255,5 @@ Supporting project files attached include:
 - Cleaned dataset 
 - Python-generated visualisations.
 - Power BI dashboard file 
-("C:\Users\HP\Downloads\Web_Scraping_Project")
 
 These materials provide supporting evidence for the workflow and findings described in this README.
