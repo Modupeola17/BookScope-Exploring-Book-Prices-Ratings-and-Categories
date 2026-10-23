@@ -11,23 +11,6 @@ The project demonstrates an end-to-end analytics workflow, from web scraping and
 
 The goal was to transform raw web data into meaningful insights and present the findings through an interactive Power BI dashboard.
 
-![BookScope Dashboard](images/bookscope_dashboard.png)
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Story of the Data](#story-of-the-data)
-- [Data Journey and Structure](#data-journey-and-structure)
-- [Data Splitting and Preprocessing](#data-splitting-and-preprocessing)
-- [Pre-Analysis](#pre-analysis)
-- [In-Analysis](#in-analysis)
-- [Post-Analysis and Data Visualisations](#post-analysis-and-data-visualisations)
-- [Key Significant Limitations](#key-significant-limitations)
-- [Recommendations and Conclusion](#recommendations-and-conclusion)
-- [Final Summary](#final-summary)
-- [Tools and Technologies](#tools-and-technologies)
-- [References and Appendices](#references-and-appendices)
-
 ## Introduction
 
 Data analytics involves more than creating charts. It requires collecting data, assessing its quality, preparing it for analysis, identifying patterns and communicating findings clearly.
@@ -272,7 +255,6 @@ Supporting project files attached include:
 - Cleaned dataset 
 - Python-generated visualisations.
 - Power BI dashboard file 
+("C:\Users\HP\Downloads\Web_Scraping_Project")
 
 These materials provide supporting evidence for the workflow and findings described in this README.
-# BookScope-Exploring-Book-Prices-Ratings-and-Categories
-BookScope is a data analytics project that explores book prices, ratings, availability and categories using data collected from Books to Scrape.
