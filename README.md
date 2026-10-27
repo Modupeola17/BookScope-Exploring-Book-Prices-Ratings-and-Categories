@@ -1,6 +1,6 @@
 # BookScope: Exploring Book Prices, Ratings and Categories
 
-<img width="1210" height="685" alt="BookScope Dashboard" src="https://github.com/user-attachments/assets/4480de17-e6ad-4963-bf9a-0d7bb62af096" />
+<img width="603" height="340" alt="BookScope Dashboard" src="https://github.com/user-attachments/assets/dc8e8586-94ce-4797-a1a8-4967cd90e7e1" />
 
 
 **An End-to-End Data Analytics Project**
